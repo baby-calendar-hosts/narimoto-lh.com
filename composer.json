@@ -234,11 +234,8 @@
     "koodimonni-plugin-language/user-role-editor-ja": "*",
     "koodimonni-plugin-language/wordpress-importer-ja": "*",
     "koodimonni-plugin-language/wp-super-cache-ja": "*",
-<<<<<<< HEAD
     "wpackagist-plugin/admin-menu-editor": "*",
-=======
     "wpackagist-plugin/adminimize": "*",
->>>>>>> upstream/master
     "wpackagist-plugin/amazon-s3-and-cloudfront": "*",
     "wpackagist-plugin/breadcrumb-navxt": "*",
     "wpackagist-plugin/classic-editor": "*",
